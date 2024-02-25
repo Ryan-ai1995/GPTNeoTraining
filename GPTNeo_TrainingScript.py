@@ -1,4 +1,4 @@
-# Databricks notebook source
+# Azure Databricks notebook source
 import os
 import time
 import datetime
